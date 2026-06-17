@@ -1,0 +1,16 @@
+# datasets
+Palm Cooking Oil.yolov11/
+runs/
+datasets/
+*.jpg
+*.png
+*.mp4
+
+# models
+*.pt
+*.onnx
+*.h5
+
+# python
+__pycache__/
+.venv/

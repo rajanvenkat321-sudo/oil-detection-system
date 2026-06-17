@@ -1,0 +1,7 @@
+names:
+- non-reusable
+- reusable
+nc: 2
+test: C:\Users\Robin\Downloads\oil\Palm Cooking Oil.yolov11\test\images
+train: C:\Users\Robin\Downloads\oil\Palm Cooking Oil.yolov11\train\images
+val: C:\Users\Robin\Downloads\oil\Palm Cooking Oil.yolov11\valid\images

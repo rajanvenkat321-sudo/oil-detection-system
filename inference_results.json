@@ -1,0 +1,20 @@
+[
+  {
+    "source": "C:\\Users\\Robin\\Downloads\\oil\\Palm Cooking Oil.yolov11\\test\\images\\IMG_0151_JPG.rf.JI3Xrit2AOmK8HuW9u5R.JPG",
+    "detections": [
+      {
+        "class_id": 1,
+        "class_name": "reusable",
+        "confidence": 0.9155,
+        "bbox": [
+          12.4,
+          1120.7,
+          3014.7,
+          3681.6
+        ],
+        "track_id": null
+      }
+    ],
+    "count": 1
+  }
+]

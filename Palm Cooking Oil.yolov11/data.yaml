@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['non-reusable', 'reusable']
+
+roboflow:
+  workspace: smart-traffic-vmglm
+  project: palm-cooking-oil-lfnhd
+  version: dataset
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/smart-traffic-vmglm/palm-cooking-oil-lfnhd/dataset/dataset

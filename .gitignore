@@ -1,0 +1,16 @@
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# YOLO weight files (excluding best.pt / last.pt if desired, but ignoring large epochs and onnx files)
+palm_oil_yolov11/train_v1/weights/epoch*.pt
+palm_oil_yolov11/train_v1/weights/best.onnx
+yolo11m.pt
+yolo11n.pt
